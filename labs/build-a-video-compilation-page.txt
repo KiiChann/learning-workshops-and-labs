@@ -1,0 +1,55 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+        <h1>Video Compilation Page</h1>
+        <p>This video compilation page brings together a curated selection of informative and engaging videos designed to demonstrate how embedded media can be used effectivelyon the web. Each video is presented with clarity and purpose, showcasing seamless playback, responsive layout, and an accessible viewing experience across devices.</p>
+        <section>
+            <h2>Understanding the JavaScript Map Method</h2>
+            <p>This video explains how the Javascript map() method works and how it can be used to transform data efficiently. It breaks down the concept with clear examples, making it easier to understand how map() iterates over arrays and returns a new array without modifying the original data.</p>
+            <iframe
+             src="https://www.youtube.com/embed/gaCY4QxfSzA"
+             title="Coding is Hard Until You Learn This"
+             width="560"
+             height="315"
+            >
+            </iframe
+        </section>
+        <section>
+            <h2>Introduction to HTML Media Elements</h2>
+            <p>This video provides an overview of HTML media elements and explains how audio and video content can be embedded into a webpage. It covers the basic attributes used to control playback and highlights best practices for delivering media in a structured and accessible way.</p>
+            <iframe
+            src="https://www.youtube.com/embed/e_TxH59MclA"
+            title="Day in the Life of a Japanese Game Programmer"
+            width="560"
+            height="315"
+            >
+            </iframe>
+        </section>
+        <section>
+            <h2>CSS Flexbox in 20 Minutes</h2>
+            <p>This video introduces the fundamentals of CSS Flexbox and demonstrates how it can be used to create responsive layouts. It explains key concepts such as flex containers, alignment, and spacing, helping viewers understand how Flexbox simplifies modern web design.</p>
+            <iframe
+            src="https://www.youtube.com/embed/LZ5nX0FTH6Q"
+            title="Earthbound (SNES) - Angry Video Game Nerd (AVGN)"
+            width="560"
+            height="315"
+            >
+            </iframe>
+        </section>
+    </main>
+
+</body>
+
+</html>
+
+** end of index.html **
+

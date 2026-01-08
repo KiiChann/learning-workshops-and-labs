@@ -1,0 +1,69 @@
+** start of index.html **
+
+<!DOCTYPE html>
+  <html lang="en">
+    <head>
+      <title>Puto Bumbong Recipe</title>
+      <meta charset="utf-8">
+    </head>
+
+    <body>
+      <h1>Easy Puto Bumbong Recipe (No Bamboo Steamer Needed)</h1>
+      <p>This recipe uses aluminum foil and/or banana leaves to mimic the traditional log shape.</p>
+      <img src="https://kusinasecrets.com/wp-content/uploads/2024/11/u3317447599_httpss.mj_.runt9Xo6wj58bY_super_top_down_view_of_h_f1b18d63-f2f2-4563-b52d-d7152fbcde37_2.jpg" alt="Freshly cooked puto bumbong served on a plate.">
+      
+      <h2>Ingredients</h2>
+      <!--
+      <h3>For the Puto Bumbong</h3>
+      -->
+      <ul>
+        <li>2 cups Glutinous Rice Flour (Malagkit)</li>
+        <li>1 cup Regular Rice Flour (Bigas)</li>
+        <li>1-2 tbsp (or to desired color) Ube flavoring or Purple Food Coloring</li>
+        <li>1 cup (or as needed) Water</li>
+      </ul>
+      <h3>For the Toppings</h3>
+      <ul>
+        <li>Softened Butter or Margarine - For brushing</li>
+        <li>Freshly Grated Coconut - For topping</li>
+        <li>Muscovado of Brown Sugar - For topping</li>
+        <li>Grated Cheese (Optional) - For topping</li>
+        <li>Banana Leaves (Wilted/Softened) - For steaming/serving (optional)</li>
+        <li>Aluminum Foil (4x7-inch rectangles) - For shaping</li>
+      </ul>
+      <h2>Instructions</h2>
+      <!--
+      <h3>1. Prepare the Rice Dough</h3>
+      -->
+      <ol>
+        <li>In a large mixing bowl, combine the <strong>glutinous rice flour</strong> and <strong>regular rice flour.</strong>
+        <li>In a separate small bowl, mix the <strong>water</strong> with the <strong>ube flavor</strong> or <strong>purple food coloring</strong>.</li>
+        <li>Gradually add the colored water to the flour mixture. Mix well using your hands until a slightly dry, crumbly dough forms. The dough should be moist enough to hold together slightly but dry enought to be grated. <em>If it's too wet, add a tablespoon of regular rice flour until the texture is right</em>.
+      </ol>
+      <h3>2. Grate the Dough</h3>
+      <ol>
+        <li>Use a box grater or a coarse sieve to grate the dough mixture into a coarse, crumbly texture (also known as <em>galapong</em>). This texture is key to getting the right chewiness when steamed.</li>
+      </ol>
+      <h3>3. Shape and Steam</h3>
+      <ol>
+        <li>Prepare your steamer. Make sure the water is boiling rapidly.</li>
+        <li>Lay the rectangular pieces of <strong>aluminum foil</strong> flat. If you have <strong>banana leaves</strong>, lay a piece on top of each foil rectangle and brush the banana leaf (or foil if no leaf) with a little butter or oil.</li>
+        <li>Place about <strong>2-3 tablespoons</strong> of the grated rice mixture onto the prepared surface and form in into a loose, long log. <strong>Do not pack it tightly.</strong>
+        <li>Fold and pinch the ends of the foil (or foil and banana leaf) to seal them, leaving the top open so the steam can cook the rice.</li>
+        <li>Arrange the logs in the steamer, leaving a little space between them.</li>
+        <li>Steam for about <strong>10-15 minutes</strong>, or until the puto bumbong is soft, sticky, and turns a deeper purple color.</li>
+      </ol>
+      <h3>4. Serve and Enjoy</h3>
+      <ol>
+        <li>Once cooked, carefully remove the logs from the steamer.</li>
+        <li>Unwrap the foil and transfer the warm puto bumbong onto a clean banana leaf (or serving plate).</li>
+        <li>Brush the rice cake generously with <strong>softened butter or margarine</strong>.</li>
+        <li>Top immediately with <strong>freshly grated coconut</strong> and a sprinkle of <strong>muscovado or brown sugar</strong>.</li>
+        <li><em>Optional:</em> Add a sprinkle of <strong>grated cheese</strong> for a modern twist.</li>
+        <li>Serve hot!</li>
+      </ol>
+    </body>
+  </html>
+
+** end of index.html **
+

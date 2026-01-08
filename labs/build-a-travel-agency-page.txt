@@ -1,0 +1,38 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Travel Agency Page</title>
+    <meta name="description" content="Travel Agency Page is a fictional travel agency offering curated travel packages, adventure tours, and stress-free trip planning for travelers worldwide.">
+  </head>
+
+  <body>
+    <h1>Explore Our Travel Destinations</h1>
+    <p>From vibrant cities to relaxing excapes, our travel opportunities are designed to inspire every type of traveler. Whether you're looking for adventure, cultural experiences, or a peaceful getaway, our curated destinations make it easy to explore the world with confidence and convenience.</p>
+    <h2>Packages</h2>
+    <p>Our travel packages are thoughtfully designed to fit different travel styles and budgets, ranging from all-inclusive vacations and guided tours to flexible, custom-planned trips. Whether you're traveling solo, with family, or in a group, each package balances comfort, value, and unforgettable experiences.</p>
+    <ul>
+      <li><a target="_blank" href="https://www.freecodecamp.org/learn">Group Travels</a></li>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+    </ul>
+    <h2>Top Itineraries</h2>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="Photo of Colosseo."></a>
+      <figcaption>The Colosseum in Rome, Italy, one of the world's most iconic historical landmarks and a symbol of ancient Roman architecture.</figcaption>
+      </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="Photo of Alps." target="_blank"></a>
+      <figcaption>A breathtaking view of the Dolomite mountain peaks at sunset, showcasing dramatic rock formations and alpine landscapes popular with hikers and nature lovers.</figcaption>
+      </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank")"><img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="Photo of Sea."></a>
+      <figcaption>A serene sailing experience relaxing getaways and tropical island adventures.</figcaption>
+      </figure>
+
+  </body>
+</html>
+
+** end of index.html **
+

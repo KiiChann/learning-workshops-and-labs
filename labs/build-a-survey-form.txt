@@ -1,0 +1,140 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Survey Form</title>
+  </head>
+
+  <body>
+    <h1 id="title">User Experience Survey Form</h1>
+    <p id="description">This survey form is designed to collect feedback about a user's experience while interacting with a website or application. The responses will help identify areas for improvement and ensure a more efficient, accessible, and user-friendly design.<p>
+    <form id="survey-form">
+      <p><label id="name-label">Name</label>
+      <input 
+      required 
+      id="name" 
+      type="text" 
+      placeholder="Enter your name"
+      > </p>
+      
+      <p><label id="email-label">Email</label>
+      <input 
+      required 
+      id="email" 
+      type="email"
+      placeholder="Enter your email"
+      ></p>
+      
+      <p><label id="number-label">Age (optional)</label>
+      <input 
+      id="number" 
+      type="number"
+      min="3"
+      max="100"
+      placeholder="Age"
+      ></p>
+
+      <p><label for="dropdown">How would your rate your overall experience?</label></p>
+      <select id="dropdown">
+        <option>Excellent</option>
+        <option>Good</option>
+        <option>Fair</option>
+        <option>Poor</option>
+      </select>
+      
+    <p>How often do you use this website of application?</p>
+      <input
+      type="radio"
+      name="frequency"
+      value="daily"
+      id="daily"
+      >
+      <label for="daily">Daily</label>
+
+      <input
+      type="radio"
+      name="frequency"
+      value="a-few-times-a-week"
+      id="a-few-times-a-week"
+      >
+      <label for="a-few-times-a-week">A few times a week</label>
+
+      <input
+      type="radio"
+      name="frequency"
+      value="a-few-times-a-month"
+      id="a-few-times-a-month"
+      >
+      <label for="a-few-times-a-month">A few times a month</label>
+
+      <input
+      type="radio"
+      name="frequency"
+      value="rarely"
+      id="rarely"
+      >
+      <label for="rarely">Rarely</label>
+
+      <input
+      type="radio"
+      name="frequency"
+      value="this-is-my-first-time"
+      id="this-is-my-first-time"
+      >
+      <label for="this-is-my-first-time">This is my first time</label>
+
+    <p>What features do you use most on this website?</p>
+    <p><em>(Select all that apply)</em></p>
+
+      <input
+      type="checkbox"
+      value="interactive-tutorials"
+      id="interactive-tutorials"
+      >
+      <label for="interactive-tutorials">Interactive tutorials</label>
+
+      <input
+      type="checkbox"
+      value="practice-projects"
+      id="practice-projects"
+      >
+      <label for="practice-projects">Practice projects</label>
+
+      <input
+      type="checkbox"
+      value="certification-challenges"
+      id="certification-challenges"
+      >
+      <label for="certification-challenges">Certification challenges</label>
+
+      <input
+      type="checkbox"
+      value="community-forums"
+      id="community-forums"
+      >
+      <label for="community-forums">Community forums</label>
+
+      <input
+      type="checkbox"
+      value="learning-resources"
+      id="learning-resources"
+      >
+      <label for="learning-resources">Learning resources</label>
+
+    <p>Any comments or suggestions?</p>
+    <textarea
+    placeholder="Enter your comment here..."
+    ></textarea>
+
+    <button id="submit">Submit</button>
+
+    </form>
+
+    
+  </body>
+</html>
+
+** end of index.html **
+

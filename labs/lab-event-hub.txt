@@ -1,0 +1,69 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+
+<body>
+  <header>
+      <h1>Event Hub</h1>
+      <nav>
+        <ul>
+          <li><a href="#upcoming-events">Upcoming Events</a></li>
+          <li><a href="#past-events">Past Events</a></li>
+        </ul>
+     
+      </nav>
+  </header>
+
+  <main>
+    <section id="upcoming-events">
+      <h2>Upcoming Events</h2>
+      <article>
+        <h3>Community Tech Night: Build Smarter, Not Harder</h3>
+        <p>Join fellow learners, designers, and career-switchers for an evening focused on practical tech skills you can apply immediately. This event features short talks, live demos, and open discussion around responsive design, accessiblity, and modern web workflows. Whether you're just starting out or refining your craft, this is a low-pressure space to learn, connect, and level up together.</p>
+        <time datetime="2026-03-22T18:30">
+            March 22, 2026 - 6:30 PM - 9:00 PM
+        </time>
+      </article>
+
+      <article>
+        <h3>Creative Web Jam: From Idea to Interface</h3>
+        <p>The Creative Web Jam is a hands-on, collaborative event where participants turn simple ideas into engaging web experiences. Attendees will brainstorm concepts, sketch layouts, and explore how structure and content work together to tell a story online. No experience required - just curiosity, creativity, and a willingness to experiment.</p>
+        <time datetime="2026-04-05T13:00">
+            April 5, 2026 - 1:00 PM - 4:00 PM
+        </time>
+      </article>
+    </section>
+ 
+    <section id="past-events">
+      <h2>Past Events</h2>
+      <article>
+          <h3>Open Web Workshop: Foundations That Scale</h3>
+          <p>This workshop focused on the core building blocks of the web, including semantic HTML, responsive layouts, and content-first design. Participants worked through guided exercises and real-world examples that emphasized clarity, accessibility, and long-term maintainability. The session was designed to help beginners build confidence while reinforcing best practices.</p>
+          <time datetime="2025-01-18T10:00">
+              January 18, 2025 - 10:00 AM - 1:00 PM
+          </time>
+          <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event1.jpg" alt="Past event 1">
+      </article>
+
+      <article>
+        <h3>Design for Everyone: Accessiblility in Practice</h3>
+        <p>Design for Everyone explored practical approaches to making websites more inclusive. The event covered topics suchs as color contrast, keyboard navigation, and writing meaningful content for assistive technologies. Attendees left with actionable tips they could immediately apply to improve the usability of their own projects.</p>
+        <time datetime="2024-11-09T14:00">
+            November 9, 2024 - 2:00 PM - 4:30 PM
+        </time>
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event2.jpg" alt="Past event 2">
+      </article>
+    </section>
+  </main>
+</body>
+
+</html>
+
+** end of index.html **
+

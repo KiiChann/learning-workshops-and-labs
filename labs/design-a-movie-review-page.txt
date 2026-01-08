@@ -1,0 +1,36 @@
+** start of index.html **
+
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Movie Review</title>
+ </head>
+
+<body>
+    <main>
+        <h1>Rise Beyond 2</h1>
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/rise-beyond-2.png" alt="A boy standing on a stage with a metropolis background while holding a guitar.">
+        <p>Rise Beyond 2 follows a continuation of struggle, ambition, and resilience as familiar characters face new challenges in an ever-changing world. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p>
+          <strong>Movie Rating:</strong>
+              <span aria-hidden="true">⭐⭐⭐⭐⭐⭐⭐⭐⭐☆</span>
+          (9.2/10)
+        </p>
+        <h2>Cast Members</h2>
+        <ul>
+            <li><strong>Lena Whitmore</strong> as Ava Reynolds</li>
+            <li><strong>Marcus Vale</strong> as Daniel Cross</li>
+            <li><strong>Sophia Linden</strong> as Mira Hayes</li>
+            <li><strong>Theo Ramirez</strong> as Lucas Ward</li>
+        </ul>
+
+    </main>
+
+</body>
+
+</html>
+
+** end of index.html **
+

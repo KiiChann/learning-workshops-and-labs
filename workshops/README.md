@@ -1,3 +1,7 @@
 # Workshops
-This folder contains workshop notes and guided exercises completed while learning web development.
-These files focus on concepts, walkthroughs, and structured lessons.
+This folder represents workshops completed as part of my web development learning.
+
+Workshop materials are not downloadable. Learning is tracked through:
+- Notes
+- Concepts practiced
+- Related lab exercises stored in the `/labs` folder

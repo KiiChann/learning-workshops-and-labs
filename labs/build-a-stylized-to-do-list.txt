@@ -1,0 +1,85 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Styled To-Do List</title>
+    <style>
+      a {
+      text-decoration: none;
+      }
+
+      a:link {
+      color: red;
+      }
+
+      a:visited {
+      color: green;
+      }
+
+      a:hover {
+      color: orange
+      }
+
+      a:focus {
+      outline: 2px dashed pink;
+      }
+
+      a:active {
+      color: yellow;
+      }
+    </style>
+</head>
+
+<body>
+    <ul class="todo-list">
+        <li>
+          <input type="checkbox" id="weekly-study">
+          <label for="weekly-study">Plan Weekly Study Schedule</label>
+          <ul class="sub-item">
+              <li><a class="sub-item-link" href="https://www.freecodecamp.org/learn" target="_blank">Review course modules</a>
+              </li>
+          </ul>
+        </li>
+
+        <li>
+            <input type="checkbox" id="html-basics">
+            <label for="html-basics">Complete HTML Basics Lesson</label>
+            <ul class="sub-item">
+                <li><a class="sub-item-link" href="https://www.freecodecamp.org/learn" target="_blank">Open FreeCodeCamp course</a>
+                </li>
+            </ul>
+        </li>
+
+        <li>
+            <input type="checkbox" id="css-styling">
+            <label for="css-styling">Practice CSS Styling</label>
+            <ul class="sub-item">
+                <li><a class="sub-item-link" href="https://www.freecodecamp.org/learn" target="_blank">View Flexbox guide</a>
+            </ul>
+        </li>
+
+        <li>
+            <input type="checkbox" id="sample-web-page">
+            <label for="sample-web-page">Build Sample Web Page</label>
+            <ul class="sub-item">
+                <li><a class="sub-item-link" href="https://www.freecodecamp.org/learn" target="_blank">Check design inspiration</a>
+                </li>
+            </ul>
+        </li>
+    </ul>
+
+</body>
+
+</html>
+
+** end of index.html **
+
+** start of styles.css **
+
+
+
+** end of styles.css **
+

@@ -1,0 +1,67 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Post Card</title>
+    <style>
+        .blog-post-card {
+        background-color: white;
+        border-radius: 10px;
+        width: 100%;
+        text-align: left;
+        }
+
+        .post-img {
+        width: 100%;
+        border-bottom: 3px solid green;
+        }
+
+        .post-content {
+        padding: 5%
+        }
+
+        .post-title,
+        .post-excerpt {
+        color: green;
+        margin: 20px;
+        }
+
+        .read-more {
+        color: orange;
+        background-color: #222222;
+        margin: 20px;
+        padding: 10px;
+        border-radius: 20px;
+        display: inline-block;
+        }
+
+        .read-more:hover {
+        background-color: red;
+        }
+    </style>
+</head>
+<body>
+    <div class="blog-post-card">
+        <img class="post-img" src="https://cdn.freecodecamp.org/curriculum/labs/cover-photo.jpg" alt="A laptop being used with its user's hand typing on its keyboard."
+    </div>
+
+    <div class="post-content">
+      <h2 class="post-title">Designing for the Modern Web: A Beginner's Guide</h2>
+      <p class="post-excerpt">Designing for the modern web means creating experiences that are accessible, responsive, and user-focused across all devices. This beginner's guide explores the core principles of web design, including layout structure, visual hierarchy, and mobile-first thingking. Whether you're just starting out or refreshing your skills, this post provides a practical foundation for building websites that look great and function seamlessly in today's digital landscape.</p>
+      <a class="read-more" href="#">Read More</a>
+    </div>
+
+</body>
+</html>
+
+** end of index.html **
+
+** start of styles.css **
+
+
+
+** end of styles.css **
+

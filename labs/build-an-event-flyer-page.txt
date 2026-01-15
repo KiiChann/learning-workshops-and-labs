@@ -1,0 +1,75 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Build an Event Flyer Page</title>
+  <style>
+    body {
+    padding: 50px 50px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100vw;
+    min-height: calc(100vh - 100px);
+    }
+
+    hr {
+    width: 100%;
+    }
+
+    section {
+    width: 100%;
+    }
+
+    h2 {
+    width: 100%;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/event.jpg">
+    <h1>The Grand Neighborhood Fiesta</h1>
+  </header>
+<hr>
+  <main>
+    <section>
+      <h2>Festival Highlights</h2>
+      <ul>
+        <li>Live local music and dance performances</li>
+        <li>Family-friendly games and activity booths</li>
+        <li>Arts & crafts market featuring neighborhood creators</li>
+        <li>Interactive workshops and community showcases</li>
+        <li>Raffles, giveaways, and surprise pop-up moments</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Event Details</h2>
+      <ul>
+        <li>Date: Saturday, July 20, 2026</li>
+        <li>Time: 10:00 AM - 6:00 PM</li>
+        <li>Location: Central Community Park</li>
+        <li>Admission: Free and open to all ages</li>
+        <li>What to Bring: Sunscreen, reusable water bottles, and your fiesta spirit</li>
+      </ul>
+    </section>
+  </main>
+
+</body>
+
+</html>
+
+** end of index.html **
+
+** start of styles.css **
+
+
+
+** end of styles.css **
+
